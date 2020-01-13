@@ -1,15 +1,17 @@
 # AW_Hell
 Unity Game  Project (Level Generator)
 
+My very first C# unity project, that is not based on a tutorial. All my own code.
 
-First step of the process. Developing the tools. It will be a 1meter grid on wich I create controlnodes which will be replaced by art assets on level initialisation. I want the levels to be truly random and not just big assets stuck together differently. Each of the 7 levels shall also be very different from all the others, so each one gets its own algorithm.
+First step of the process. Developing the tools. It will be a 1meter grid on with controlnodes, which will be replaced by art assets on level initialisation.
+I want the levels to be truly random and not just big assets stuck together differently. Each of the 7 levels shall also be very different from all the others, so each one gets its own algorithm.
 
 The first will be rooms on stilts over a red hot soup of lava and bodyparts (all very lighthearted, but still gross)
 the rooms are connected by bridges and the whole structure is broken. 
 
 ![](aw_Hell_level_Generator_preview_03.gif)
 
-heres some update on the generator for level 2, which will be a maze. Something like a torture march before you finally reach the gates of hell.
+heres some update on the generator for level 2, which will be a maze. Something like a dark march before you finally reach the gates of hell.
 
 ![](aw_Hell_level_Generator_preview_05.gif)
 
@@ -45,4 +47,16 @@ first shot of instantiated geometry. For now I only have 3 prefabs. One wall, on
 
 ![](aw_Hell_level_Generator_preview_06.jpg)
 
+
+
+-------------------------------------------
+
+here some shots of code refactoring: <br>
+before:
+
+![](codeBefore.jpg)
+
+after:
+
+![](code-after.jpg)
 
