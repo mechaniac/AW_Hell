@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a11b287f2b4335d43858154093af8d02
+timeCreated: 1513272855
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controlNodePrefab: {instanceID: 0}
+  - matRed: {instanceID: 0}
+  - matYellow: {instanceID: 0}
+  - matDarkRed: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
